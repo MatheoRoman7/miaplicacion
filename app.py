@@ -3,7 +3,7 @@ import Modulo1 as m1
 import pandas as pd
 import plotly.express as px
 
-st.title("Mi Aplicación")
+st.title("Mi Aplicación Python")
 st.sidebar.title("Parámetros")
 st.sidebar.image("Logo.png",width=100)
 
